@@ -8,7 +8,7 @@
 
 // Licensed under the MIT License
 
-#import "JKBigInteger.h"
+#import "RNAWSCognito/JKBigInteger.h"
 
 @implementation JKBigInteger {
 @private

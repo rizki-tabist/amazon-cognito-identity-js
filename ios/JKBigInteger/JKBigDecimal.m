@@ -8,7 +8,7 @@
 
 // Licensed under the MIT License
 
-#import "JKBigDecimal.h"
+#import "RNAWSCognito/JKBigDecimal.h"
 
 @implementation JKBigDecimal
 @synthesize bigInteger, figure;

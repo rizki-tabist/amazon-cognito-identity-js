@@ -9,7 +9,7 @@
 // Licensed under the MIT License
 
 #import <Foundation/Foundation.h>
-#include "tommath.h"
+#include "RNAWSCognito/tommath.h"
 
 @interface JKBigInteger : NSObject <NSSecureCoding>
 

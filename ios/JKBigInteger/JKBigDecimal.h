@@ -9,7 +9,7 @@
 // Licensed under the MIT License
 
 #import <Foundation/Foundation.h>
-#import "JKBigInteger.h"
+#import "RNAWSCognito/JKBigInteger.h"
 
 @interface JKBigDecimal : NSObject <NSSecureCoding>
 
