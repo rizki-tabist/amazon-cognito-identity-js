@@ -2,7 +2,7 @@
 #import <React/RCTLog.h>
 #import <React/RCTUtils.h>
 
-#import "JKBigInteger.h"
+#import "RNAWSCognito/JKBigInteger.h"
 
 @interface RNAWSCognito : NSObject <RCTBridgeModule>
 -(NSString*)getRandomBase64:(NSUInteger)byteLength;
